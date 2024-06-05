@@ -24,7 +24,7 @@ footer: "ECL 2.0 Licensed | Copyright © [2024] [Slobodeniuk Sasha]"
 
 **Кирило Шульга [Telegram](https://t.me/kyryl_shulga)**
 
-**Олександр Слободенюк [Telegram](https://t.me/Niggetos)**
+**Олександр Слободенюк [Telegram](https://t.me/Sanya_owner)**
 
 **Михайло Доліцой [Telegram](https://t.me/DolitsoiMisha)** 
 
